@@ -1,0 +1,31 @@
+//npm init
+//npm express
+//npm ejs
+//npm mongoose
+
+
+1//set views  1 nav 
+after nav backend
+ 
+ 2 backend models
+
+ user.js
+
+ 3 router all router resiter with index.js
+
+ mogodb connect
+
+//Autentications 
+In case of autentication we need jsonwebtoken
+
+foe making tokens we need service
+
+after making token insred of user we return token in model
+
+//4 middlewares for user singed in or not
+middlewares 
+
+after Autentications 
+
+blog 
+1 blog model/frontend/
